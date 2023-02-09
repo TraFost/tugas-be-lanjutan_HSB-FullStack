@@ -1,9 +1,4 @@
 module.exports = {
-  //   HOST: "localhost",
-  //   USER: "root",
-  //   PASSWORD: "",
-  //   DB: "sql12595256",
-  //   dialect: "mysql",
   HOST: "sql12.freesqldatabase.com",
   USER: "sql12595256",
   PASSWORD: "xqMjdFxU1n",
